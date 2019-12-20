@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+
+
+.unacteur {
+	border: 1px solid black;
+	width:200px;
+	margin:10px 10px 0 0;
+	float:left;
+}
+
+.unacteur #laphoto {
+	width:100px;
+}
+
+
+
+
+.italic {
+	font-style: italic;
+}
+
+#realisateur {
+	color:red;
+}
+
+#realisateur:hover #filmographie{	
+	display:block;
+}
+
+#filmographie {
+	position:absolute;
+	margin-left:50%;
+	background-color:#00ffff;
+	z-index:400;
+	display:none;
+}
+
+ul {
+	list-style-type:none;
+}

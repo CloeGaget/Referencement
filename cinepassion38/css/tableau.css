@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+
+caption, th {
+	background-color: #474C6F;
+	color: black;
+	font-weight: bold;
+	text-align:center;
+	border:1px solid black;
+	border-bottom:0px;
+}
+
+table {
+	border-collapse: collapse; 
+	border: 1px solid black;
+	width: 100%;
+}
+
+td {
+	text-align: center;
+	border: 1px solid black;
+	width: 20%;
+	cursor: pointer;
+}
+
+
+tr:nth-child(even) {
+	background-color: #CCC9DA;
+}
+
+#titreFilm {
+	width: 50%;
+}
+
+tr:hover {
+	background-color: grey;
+}
+
+acronym {
+	text-decoration: none;
+}
