@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd%22%3E
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/index.php</loc>
+  <lastmod>2020-01-13T14:28:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/films.html</loc>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/greenlantern.png</image:loc>
+     <image:caption>Affiche du film Green Lantern</image:caption>
+     <image:geo_location>Iles Fidji</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/prometheus.png</image:loc>
+     <image:caption>Affiche du film Prometheus</image:caption>
+     <image:geo_location>Vastayas</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/starwars.png</image:loc>
+     <image:caption>Affiche de Star Wars</image:caption>
+     <image:geo_location>France</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/avatar.png</image:loc>
+     <image:caption>Affiche du film Avatar</image:caption>
+     <image:geo_location>France</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/batman.png</image:loc>
+     <image:caption>Affiche du film Batman</image:caption>
+     <image:geo_location>Sénégal</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/levoyagedechihiro.png</image:loc>
+     <image:caption>Affiche du film le voyage de Chihiro</image:caption>
+     <image:geo_location>Drôme</image:geo_location>
+   </image:image>
+   <image:image>
+     <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gagetc/cinepassion38/oss117.png</image:loc>
+     <image:caption>Affiche du film OSS 117</image:caption>
+     <image:geo_location>La Creuse</image:geo_location>
+   </image:image>
+  <lastmod>2020-01-13T13:38:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

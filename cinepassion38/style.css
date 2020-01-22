@@ -1,0 +1,137 @@
+
+
+header {
+  width:100%;
+  left:0;
+  position:fixed;
+  z-index:1000;
+  background: linear-gradient(#B69F85, #503C25);
+  top:0;
+}
+
+main {
+    top:150px;
+    position:relative;
+}
+
+body {
+  background: #B69F85;
+}
+
+#grostitre {
+  font-style:italic;
+  text-align: center;
+  font-family: fantasy;
+  color:#FEE511;
+}
+
+nav {
+  display:flex;
+  justify-content: center;
+}
+
+nav ul {
+  list-style: none;
+  margin:0;
+  padding:0;
+  background:black;
+  width: 100%;
+  justify-content: space-around;
+}
+
+nav .nav {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+nav li {
+  background-color: #FEE511;
+  display:flex;
+  justify-content: space-around;
+  width:20%;
+}
+
+nav a {
+  display:flex;
+  text-decoration: none;
+  color:black;
+  text-align: center;
+  padding:15px;
+  justify-content: center;
+  align-items: center;
+  font-family: fantasy;
+  font-style: italic;
+  width:100%;
+}
+
+.possedeSousMenu {
+  position:relative;
+}
+
+.possedeSousMenu:hover .sousMenu {
+    display: flex;
+}
+
+.sousMenu {
+  flex-flow:column wrap;
+  min-width: 100px;
+  position: absolute;
+  display:none;
+  margin-top:49px;
+}
+
+.sousMenu a {
+  text-align: left;
+}
+
+.sousMenu li {
+  background-color: #FEE511;
+  justify-content: space-around;
+  width:100%;
+  float:none;
+}
+
+nav li:hover, .activePage {
+  /* background:linear-gradient(#B69F85, white, #B69F85); */
+  background-color: grey;
+}
+
+#lesfilms {
+  border:2px solid black;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+#lesfilms td, #lesfilms th, #lesfilms caption {
+  border:1px solid black;
+}
+
+#lesfilms th {
+  padding:15px;
+  background-color:blue;
+}
+
+#lesfilms caption {
+  padding:30px;
+}
+
+#lesfilms tr:nth-child(even) {
+  background-color: green;
+}
+
+#lesfilms tr:hover {
+  background-color: yellow;
+}
+
+#mainCenter {
+  display: flex;
+  justify-content: center;
+}
+
+#lesfilms img {
+  width:100px;
+}
+
+hhhh::after {
+  content:"ccc";
+}

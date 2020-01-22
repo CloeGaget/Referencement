@@ -1,0 +1,88 @@
+SEO (Search Engine Optimization) : Le référencement naturel ou
+organique
+
+SMO (Social Media Optimization) : complément du SEO
+(Attirer visiteurs sur sites web grâce à promotion sur les rs)
+
+SEA (Search Engine Advertising) : Le référencement payant*
+
+==> Toutes ces techniques font partie du SEM (Search Engine Marketing)
+permettant d'améliorer la visibilité dans les résultats SERP (Search Engine
+Response Page)
+
+
+Le référencement est pris en charge par 
+référenceur SEO agence
+référenceur chez l’annonceur
+chef de projet / directeur technique
+rédacteur web
+
+
+SEO : contenu / notoriété
+mode d'optimisation du référencement
+On-Page : actions qui s'effectuent sur votre
+site
+Off-page : actions qui s'effectuent en
+dehors de votre site
+
+
+On-Page
+L'optimisation technique (xp user + structure)
+L'optimisation sémantique (contenu mots clés)
+
+Off-Page
+valorisation dans la communauté d'utilisation (partenariats, Tissage de liens, rs)
+
+
+"White Hat"
+ensemble de techniques normalisées qui respectent les normes de Google afin 
+d'être le plus efficace possible sur le long terme (malgré les changements d'algo)
+"Black Hat"
+fait de détourner les guidelines afin d'avoir des résultats plus rapides 
+en trompant les moteurs de recherche (liens intempestifs sur des blogs, 
+forums fictifs, texte sur fond de même couleur, etc.)
+
+
+Panda
+Pénalise les sites ayant du contenu de mauvaise qualité (pas assez de contenu, texte
+non cohérent, etc.)
+
+Pingouin
+Lutte contre la création intempestive des liens
+
+Hummingbird/Colibri et Rankbrain
+Des algos d'analyse sémantique (permettant à Google de comprendre le contexte d'un
+mot ou d'une phrase, ou de donner la réponse lorsqu'il s'agit d'une question)
+
+Pigeon
+Favorise les résultats de recherche locaux et l'affichage sur GoogleMaps
+
+
+Fonctionnement MR
+Crawling - Analyse de pages - Indexation - Traitement des requêtes (SERP)
+
+
+mot-clé trop large : Trafic important / Attention aux taux de rebond
+
+mot-clé trop précis : Taux de rebond très faible / Très peu de visibilité
+
+
+Mots-clés généralistes
+Mots-clés d'information
+Mots-clés d'intention
+Mots-clés locaux ou de navigation
+
+
+Un canal d'acquisition: la voie par laquelle vos visiteurs
+vous ont trouvé
+Un KPI: Key Performance Indicator ou indicateur clé de
+performance lié à vos sous-objectifs
+Un segment: un sous-ensemble homogène d'une
+audience
+Une cohorte: un échantillon de visiteurs ayant vécu le
+même évènement sur une même période
+
+SITEMAP
+Un fichier qui explique le contenu (pages, vidéos,
+images, etc.) de votre site au MR pour un référencement
+plus efficace
